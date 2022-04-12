@@ -171,7 +171,7 @@ Here are the few Screenshots
   <img src="https://github.com/tausif39/CompetitveProgrammingHelper/blob/main/img/mercen1279_.jpeg" alt="Logo" width="1080" height="500">
 </p>
 <p>
-  <img src="https://github.com/tausif39/CompetitveProgrammingHelper/blob/main/img/array.png" alt="Logo" width="1080" height="500">
+  <img src="https://github.com/tausif39/CompetitveProgrammingHelper/blob/master/array.png" alt="Logo" width="1080" height="500">
 </p>
 <p>
   <img src="https://github.com/tausif39/CompetitveProgrammingHelper/blob/main/img/permutation.png" alt="Logo" width="1080" height="500">
