@@ -168,32 +168,32 @@ For using string and characters in sort, you have to input manually like 'a' 'ab
 Here are the few Screenshots
 
 <p>
-  <img src="https://github.com/tausif39/CompetitveProgrammingHelper/blob/main/img/mercen1279_.jpeg" alt="Logo" width="1080" height="500">
+  <img src="https://github.com/tausif39/CompetitveProgrammingHelper/blob/maaster/img/mercen1279_.jpeg" alt="Logo" width="1080" height="500">
 </p>
 <p>
   <img src="https://github.com/tausif39/CompetitveProgrammingHelper/blob/master/array.png" alt="Logo" width="1080" height="500">
 </p>
 <p>
-  <img src="https://github.com/tausif39/CompetitveProgrammingHelper/blob/main/img/permutation.png" alt="Logo" width="1080" height="500">
+  <img src="https://github.com/tausif39/CompetitveProgrammingHelper/blob/master/img/permutation.png" alt="Logo" width="1080" height="500">
 </p>
 <p>
-  <img src="https://github.com/tausif39/CompetitveProgrammingHelper/blob/main/img/next_permutation.png" alt="Logo" width="1080" height="500">
+  <img src="https://github.com/tausif39/CompetitveProgrammingHelper/blob/master/img/next_permutation.png" alt="Logo" width="1080" height="500">
 </p>
 <p>
-  <img src="https://github.com/tausif39/CompetitveProgrammingHelper/blob/main/img/prevprimes.png" alt="Logo" width="1080" height="500">
+  <img src="https://github.com/tausif39/CompetitveProgrammingHelper/blob/master/img/prevprimes.png" alt="Logo" width="1080" height="500">
 </p>
 <p>
-  <img src="https://github.com/tausif39/CompetitveProgrammingHelper/blob/main/img/primeFactorsRange.png" alt="Logo" width="1080" height="500">
+  <img src="https://github.com/tausif39/CompetitveProgrammingHelper/blob/master/img/primeFactorsRange.png" alt="Logo" width="1080" height="500">
 </p>
 <p>
-  <img src="https://github.com/tausif39/CompetitveProgrammingHelper/blob/main/img/primesRange.png" alt="Logo" width="1080" height="500">
+  <img src="https://github.com/tausif39/CompetitveProgrammingHelper/blob/master/img/primesRange.png" alt="Logo" width="1080" height="500">
 </p>
 <p>
-  <img src="https://github.com/tausif39/CompetitveProgrammingHelper/blob/main/img/primecount.png" alt="Logo" width="1080" height="500">
+  <img src="https://github.com/tausif39/CompetitveProgrammingHelper/blob/master/img/primecount.png" alt="Logo" width="1080" height="500">
 </p>
 <p>
-  <img src="https://github.com/tausif39/CompetitveProgrammingHelper/blob/main/img/memory.png" alt="Logo" width="1080" height="500">
+  <img src="https://github.com/tausif39/CompetitveProgrammingHelper/blob/master/img/memory.png" alt="Logo" width="1080" height="500">
 </p>
 <p>
-  <img src="https://github.com/tausif39/CompetitveProgrammingHelper/blob/main/img/scientificCalculator.png" alt="Logo" width="1080" height="500">
+  <img src="https://github.com/tausif39/CompetitveProgrammingHelper/blob/master/img/scientificCalculator.png" alt="Logo" width="1080" height="500">
 </p>
