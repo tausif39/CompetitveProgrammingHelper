@@ -168,7 +168,7 @@ For using string and characters in sort, you have to input manually like 'a' 'ab
 Here are the few Screenshots
 
 <p>
-  <img src="https://github.com/tausif39/CompetitveProgrammingHelper/blob/maaster/img/mercen1279_.jpeg" alt="Logo" width="1080" height="500">
+  <img src="https://github.com/tausif39/CompetitveProgrammingHelper/blob/master/img/mercen1279_.jpeg" alt="Logo" width="1080" height="500">
 </p>
 <p>
   <img src="https://github.com/tausif39/CompetitveProgrammingHelper/blob/master/array.png" alt="Logo" width="1080" height="500">
